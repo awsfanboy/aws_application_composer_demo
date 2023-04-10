@@ -1,0 +1,5 @@
+version = 0.1
+[default.global.parameters]
+stack_name = "aws-app-composer-basic-api"
+[default.deploy.parameters]
+capabilities = "CAPABILITY_IAM"
